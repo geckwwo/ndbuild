@@ -1,2 +1,3 @@
-# ndbuild
-ndbuild - build script to produce tiny APKs (~12kb for hello world)
+This tree is used only for distributing compact devkit and tracking ndbuild version.
+
+See tree `main` for the ndbuild itself.
